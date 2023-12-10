@@ -38,7 +38,7 @@ To run this software, ensure the following libraries are installed:
 
 ## Usage Examples 📊
 ### Theoretical Analysis 📈
-![Theoretical Analysis](path_to_image.png)
+![Theoretical Analysis]([path_to_image.png](https://simphonyphotonics.readthedocs.io/en/stable/_images/plot_mzi.png))
 - Demonstrates the theoretical behavior of the designed photonic circuit.
 
 ### Noisy Analysis 🎢
